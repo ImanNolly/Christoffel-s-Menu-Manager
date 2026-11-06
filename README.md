@@ -1,5 +1,5 @@
 ## Changelog – Part 3 (Final PoE)
-[Click here to view](MAST5112-Part-3)
+[Click here to view](MAST5112-Part-3.pdf)
 
 ### 1. Added New Features
 
